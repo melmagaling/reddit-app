@@ -2,7 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Usage](#usage)
+* [Usage](#usage)s
 
 ## General info
 This project is use the Reddit API to build a Reddit client, using React.
