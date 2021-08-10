@@ -1,9 +1,33 @@
-# Getting Started with Create React App
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Usage](#usage)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## General info
+This project is use the Reddit API to build a Reddit client, using React.
 
-## Available Scripts
+## Technologies
+Project is created with:
+* React
+* Snoowrap - A fully-featured JavaScript wrapper for the reddit API. [Documentation][https://github.com/not-an-aardvark/snoowrap]
+* Material UI
+* Node
+	
+## Setup
 
+To clone the project:
+```bash
+$ git clone git@github.com:melmagaling/reddit-app.git
+$ cd ../reddit-app
+```
+
+And JS dependancies:
+```bash
+npm install
+```
+
+## Usage
 In the project directory, you can run:
 
 ### `npm start`
