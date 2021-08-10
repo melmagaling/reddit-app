@@ -6,10 +6,11 @@ import CardContent from "@material-ui/core/CardContent";
 import CardMedia from "@material-ui/core/CardMedia";
 import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/core/styles";
+import config from "../config.json";
 
 const r = new snoowrap({
-  userAgent: process.env.REACT_APP_REDDIT_USER_AGENT,
-  accessToken: process.env.REACT_APP_REDDIT_ANONYMOUS_TOKEN,
+  userAgent: config.REDDIT_USER_AGENT,
+  accessToken: config.REDDIT_ANONYMOUS_TOKEN,
 });
 
 const useStyles = makeStyles({
