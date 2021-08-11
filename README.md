@@ -69,6 +69,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Config Token
-You may generate a anonymous token [here][https://not-an-aardvark.github.io/reddit-oauth-helper/]
-You edit the token in root/config.json
+You can generate a anonymous token [here][https://not-an-aardvark.github.io/reddit-oauth-helper/].
+You can edit the token in root/config.json
 
