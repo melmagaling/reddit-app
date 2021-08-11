@@ -15,7 +15,6 @@ Project is created with:
 * Node
 	
 ## Setup
-
 To clone the project:
 ```bash
 $ git clone git@github.com:melmagaling/reddit-app.git
@@ -68,3 +67,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Config Token
+You may generate a anonymous token [here][https://not-an-aardvark.github.io/reddit-oauth-helper/]
+You edit the token in root/config.json
+
